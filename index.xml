@@ -33,9 +33,9 @@
 &lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Adres: Rydla&lt;/li&gt;
-&lt;li&gt;Powierzchnia: 70&lt;/li&gt;
-&lt;li&gt;Liczba pomieszczeń: 6&lt;/li&gt;
+&lt;li&gt;Adres: ul. Rydla 35, dzielnica Bronowice&lt;/li&gt;
+&lt;li&gt;Powierzchnia: 70 m&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;Liczba pokoi: 3&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://mieszkanie.github.io/mieszkanie/rydla/&#34;&gt;Więcej informacji&amp;hellip;&lt;/a&gt;&lt;/p&gt;
@@ -52,7 +52,27 @@
 
 &lt;h1 id=&#34;ulica-rydla:9c6e4b6e8cdc0a3ba72a5fe9b1926d46&#34;&gt;Ulica Rydla&lt;/h1&gt;
 
-&lt;p&gt;&lt;em&gt;(Informacje o mieszkaniu)&lt;/em&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;tr&gt;
+    &lt;td&gt;Adres&lt;/td&gt;
+    &lt;td&gt;ul. Rydla 35, dzielnica Bronowice&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;td&gt;Powierzchnia&lt;/td&gt;
+    &lt;td&gt;70 m&lt;sup&gt;2&lt;/sup&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;td&gt;Pomieszczenia&lt;/td&gt;
+    &lt;td&gt;3 pokoje, kuchnia (oddzielna), łazienka, ubikacja,
+    balkon, pomieszczenie gospodarcze&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;td&gt;Cena&lt;/td&gt;
+    &lt;td&gt;2000 zł&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Parter. Osiedle zamknięte z ochroną.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.google.pl/maps/place/Lucjana+Rydla+35,+33-332+Krak%C3%B3w,+Poland/@50.0792814,19.9039351,16z/data=!4m2!3m1!1s0x47165bb5ee7ba44f:0xd69c3cf1e96c8040&#34; target=&#34;_blank&#34;&gt;&lt;/p&gt;
 
@@ -74,6 +94,8 @@
 
 &lt;h3 id=&#34;pokój-1:9c6e4b6e8cdc0a3ba72a5fe9b1926d46&#34;&gt;Pokój 1&lt;/h3&gt;
 
+&lt;p&gt;Powierzchnia: 10.9 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
 &lt;p&gt;
 &lt;figure &gt;
     
@@ -86,6 +108,8 @@
 &lt;hr&gt;
 
 &lt;h3 id=&#34;pokój-2:9c6e4b6e8cdc0a3ba72a5fe9b1926d46&#34;&gt;Pokój 2&lt;/h3&gt;
+
+&lt;p&gt;Powierzchnia: 20.7 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;
 &lt;figure &gt;
@@ -124,6 +148,8 @@
 
 &lt;h3 id=&#34;pokój-3:9c6e4b6e8cdc0a3ba72a5fe9b1926d46&#34;&gt;Pokój 3&lt;/h3&gt;
 
+&lt;p&gt;Powierzchnia: 14.7 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
 &lt;p&gt;
 &lt;figure &gt;
     
@@ -152,6 +178,8 @@
 &lt;hr&gt;
 
 &lt;h3 id=&#34;kuchnia:9c6e4b6e8cdc0a3ba72a5fe9b1926d46&#34;&gt;Kuchnia&lt;/h3&gt;
+
+&lt;p&gt;Powierzchnia: 10.6 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;
 &lt;figure &gt;
@@ -182,6 +210,8 @@
 
 &lt;h3 id=&#34;łazienka:9c6e4b6e8cdc0a3ba72a5fe9b1926d46&#34;&gt;Łazienka&lt;/h3&gt;
 
+&lt;p&gt;Powierzchnia: 5.1 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
 &lt;p&gt;
 &lt;figure &gt;
     
@@ -195,6 +225,8 @@
 
 &lt;h3 id=&#34;ubikacja:9c6e4b6e8cdc0a3ba72a5fe9b1926d46&#34;&gt;Ubikacja&lt;/h3&gt;
 
+&lt;p&gt;Powierzchnia: 1.7 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
 &lt;p&gt;
 &lt;figure &gt;
     
@@ -207,6 +239,8 @@
 &lt;hr&gt;
 
 &lt;h3 id=&#34;przedpokój:9c6e4b6e8cdc0a3ba72a5fe9b1926d46&#34;&gt;Przedpokój&lt;/h3&gt;
+
+&lt;p&gt;Powierzchnia: 6.9 m&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;
 &lt;figure &gt;
